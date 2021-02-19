@@ -5,6 +5,7 @@
 * Cooking / baking
 	* Favorite thing to cook: ramen
 	* Favorite thing to bake: tiramisu
+* Anime
 
 # Technical Background
 
