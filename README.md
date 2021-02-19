@@ -12,7 +12,7 @@
 * Java for 7 ish years personally for robotics, with 3-4 classes on it in college
 * C for 4 years for embedded systems with ~10 classes on it in college
 * Python some with 2 classes that used it
-* unity for fun with very little experience 
+* Unity for fun with very little experience 
 
 # Meme
 
