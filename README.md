@@ -15,4 +15,6 @@
 
 # Meme
 
-![myImage](https://cdn.discordapp.com/attachments/714919958626304020/812378910926569532/Snapchat-1137375283.jpg)
+(made about me by a friend)
+
+![myImage](https://cdn.discordapp.com/attachments/477988702958780420/812379390700814346/unknown.png)
